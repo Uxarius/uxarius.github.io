@@ -1,12 +1,3 @@
-<!doctype html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <meta name="description" content="Main page">
-<link rel="stylesheet" href="mystyle.css">
-    <title>Implant prosthetics</title>
-</head>
-<body>
 <!-- this script got from www.javascriptfreecode.com - Coded by: Krishna Eydat -->
 <style>
 body {
@@ -183,16 +174,3 @@ p {
 
 </style>
 <img class="head" src="billgates2.png" />
-
-
-
-
-</br></br>
-<center>
-<div class="wrapper">
-<img class="thisguy" src="stronaglowna1080.jpg">
-</div>
-</center>
-
-</body>
-</html>
